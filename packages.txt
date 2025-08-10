@@ -1,5 +1,3 @@
-# core X/GTK/Chrome deps
-chromium
 libnss3
 libxshmfence1
 libasound2
