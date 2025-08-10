@@ -1,3 +1,4 @@
+chromium
 libnss3
 libxshmfence1
 libasound2
